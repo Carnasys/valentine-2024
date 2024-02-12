@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benedictus Juve & Christine Wijaya</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Happy Valentine's Day!</h1>
+    </header>
+    <main>
+        <p>Hey Bybi!</p>
+        <p>I hope this little surprise makes you smile. 😊 I wanted to do something special for you on Valentine's Day, even though we're apart. So, here goes...</p>
+        <p>First off, sorry I can't be there with you this Valentine's, but you know wherever I am, you're always in my thoughts. Can't help it, you're just too amazing!</p>
+        <p>Can you believe it's been over a year since we've been together? Time flies when you're having fun, right? And trust me, every single day with you is an adventure.</p>
+        <p>Listen, I've been thinking a lot lately. About us. And honestly, I can't imagine my life without you in it. You're my rock, my sunshine, my everything. I want us to grow old together, laugh together, and make a ton of memories together.</p>
+        <p>So, here's the big question... Will you be my Valentine? Not just today, but every day from now on? Because I can't imagine spending my life with anyone else but you.</p>
+        <p>Love you to the moon and back,<br>Benedictus Juve</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Benedictus Juve <3 Christine Wijaya</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
